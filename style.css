@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("fogo.urn_aaid_sc_US_3e5bdfff-8c40-42c0-8fd9-125ed8881d4e;revision=0.png");
+    background-repeat: no-repeat;
+}
+
+header{
+    color: white;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+
+}
+
+header div{
+    display: flex;
+    justify-content: flex-start;
+}
+
+ul{
+    display: flex;
+    justify-content: end;
+}
+
+li{
+    display: flex;
+    justify-content: flex-start;
+    margin: 20px;
+    height: 10px;
+}
+
+main{
+    display: flex;
+    align-items: center;
+}
+
+h2{
+    margin: 30px;
+    height: 0px;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    background-image: url("geralt-urn_aaid_sc_US_3e5bdfff-8c40-42c0-8fd9-125ed8881d4e;revision=0\ \(1\).png");
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 1000px;
+}
+
+figure{
+    display: flex;    
+    flex-direction: column;
+    height: 1000px;
+    align-items: flex-end;
+    margin: 600px;
+    align-items: center;
+}
