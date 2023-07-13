@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url("fogo.urn_aaid_sc_US_3e5bdfff-8c40-42c0-8fd9-125ed8881d4e;revision=0.png");
+    background-image: url("./assets/fogo.urn_aaid_sc_US_3e5bdfff-8c40-42c0-8fd9-125ed8881d4e;revision=0.png");
     background-repeat: no-repeat;
 }
 
@@ -47,7 +47,7 @@ h2{
 main{
     display: flex;
     flex-direction: column;
-    background-image: url("geralt-urn_aaid_sc_US_3e5bdfff-8c40-42c0-8fd9-125ed8881d4e;revision=0\ \(1\).png");
+    background-image: url(./assets/geralt-urn_aaid_sc_US_3e5bdfff-8c40-42c0-8fd9-125ed8881d4e;revision=0\ \(1\).png);
     background-position-x: center;
     background-repeat: no-repeat;
     background-size: contain;
